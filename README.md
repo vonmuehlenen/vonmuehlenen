@@ -1,5 +1,5 @@
 <h3 align="center">Hi there! I'm Dave</h3>
-<p align="center">🔭 I’m currently working for Interdiscount as a Junior Application Engineer</p>
+<p align="center">I’m currently working for Interdiscount as a Junior Application Engineer</p>
 <hr />
 <br />
 
