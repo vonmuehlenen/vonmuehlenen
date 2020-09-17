@@ -1,6 +1,6 @@
-### Hi there! I'm Dave
-
-#### About me 
+<h3 align="center">Hi there! I'm Dave</h3>
+<hr />
+<h4 align="center">About me</h4>
 
 - 🔭 I’m currently working for Interdiscount as a Junior Application Engineer
 - 😄 Hobbies: Scouting ⚜️ Skateboarding 🛹
