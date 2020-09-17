@@ -2,9 +2,8 @@
 <p align="center">I’m currently working for Interdiscount as a Junior Application Engineer</p>
 <hr />
 <br />
-
 <p align="center"><img src="https://github.com/vonmuehlenen/vonmuehlenen/blob/master/assets/hollow-knight.gif" height="125"/></p>
-
+<br />
 <h4 align="center">You can find me on</h4>
 <hr />
 <p align="center">
