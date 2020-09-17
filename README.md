@@ -5,8 +5,8 @@
 - 🔭 I’m currently working for Interdiscount as a Junior Application Engineer
 - 😄 Hobbies: Scouting ⚜️ Skateboarding 🛹
 
-#### You can find me on
----
+<h4 align="center">You can find me on</h4>
+<hr />
 [![github](https://github.com/vonmuehlenen/vonmuehlenen/blob/master/assets/github.png)][1] [![linkedin](https://github.com/vonmuehlenen/vonmuehlenen/blob/master/assets/linkedin.png)][2] [![gmail](https://github.com/vonmuehlenen/vonmuehlenen/blob/master/assets/gmail.png)][3]
 
 [1]: http://www.github.com/vonmuehlenen
