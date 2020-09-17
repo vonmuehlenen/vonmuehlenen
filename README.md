@@ -4,7 +4,7 @@
 
 <p align="center">🔭 I’m currently working for Interdiscount as a Junior Application Engineer</p>
 <p align="center">😄 Hobbies: Scouting ⚜️ Skateboarding 🛹</p>
-
+<br />
 <h4 align="center">You can find me on</h4>
 <hr />
 <p align="center">
