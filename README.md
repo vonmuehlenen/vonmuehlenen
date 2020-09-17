@@ -3,6 +3,8 @@
 <hr />
 <br />
 
+<p align="center"><img src="https://github.com/vonmuehlenen/vonmuehlenen/blob/master/assets/hollow-knight.gif" height="125"/></p>
+
 <h4 align="center">You can find me on</h4>
 <hr />
 <p align="center">
