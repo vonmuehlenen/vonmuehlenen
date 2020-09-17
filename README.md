@@ -1,11 +1,10 @@
 <h3 align="center">Hi there! I'm Dave</h3>
+<p align="center">🔭 I’m currently working for Interdiscount as a Junior Application Engineer</p>
 <hr />
 <br />
-<h4 align="center">About me</h4>
 
-<p align="center">🔭 I’m currently working for Interdiscount as a Junior Application Engineer</p>
-<p align="center">😄 Hobbies: Scouting ⚜️ Skateboarding 🛹</p>
-<br />
+<p align="center"><img src="https://github.com/vonmuehlenen/vonmuehlenen/blob/master/assets/hollow-knight.gif"/></p>
+
 <h4 align="center">You can find me on</h4>
 <hr />
 <p align="center">
