@@ -2,8 +2,8 @@
 <hr />
 <h4 align="center">About me</h4>
 
-- 🔭 I’m currently working for Interdiscount as a Junior Application Engineer
-- 😄 Hobbies: Scouting ⚜️ Skateboarding 🛹
+<p align="center">🔭 I’m currently working for Interdiscount as a Junior Application Engineer</p>
+<p align="center">😄 Hobbies: Scouting ⚜️ Skateboarding 🛹</p>
 
 <h4 align="center">You can find me on</h4>
 <hr />
