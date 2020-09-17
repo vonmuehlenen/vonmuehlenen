@@ -8,7 +8,7 @@
 
 #### You can find me on 
 ---
-[![github](https://github.com/vonmuehlenen/vonmuehlenen/blob/master/assets/github.png)][1][![linkedin](https://github.com/vonmuehlenen/vonmuehlenen/blob/master/assets/linkedin.png)][2]
+[![github](https://github.com/vonmuehlenen/vonmuehlenen/blob/master/assets/github.png)][1] [![linkedin](https://github.com/vonmuehlenen/vonmuehlenen/blob/master/assets/linkedin.png)][2]
 ---
 
 [1]: http://www.github.com/vonmuehlenen
