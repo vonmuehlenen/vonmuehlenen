@@ -1,5 +1,5 @@
 <h3 align="center">Hi there! I'm Dave</h3>
-<p align="center">I’m currently working for Interdiscount as a Junior Application Engineer</p>
+<p align="center">I’m currently working for Interdiscount as an Junior Application Engineer</p>
 <hr />
 <br />
 <p align="center"><img src="https://github.com/vonmuehlenen/vonmuehlenen/blob/master/assets/hollow-knight.gif" height="125"/></p>
