@@ -1,4 +1,4 @@
-<h3 align="center">Hi there! I'm Dave</h3>
+<h3 align="center">✨ Hi there! I'm Dave ✨</h3>
 <p align="center">I’m currently working for Interdiscount as an Junior Application Engineer</p>
 <hr />
 <br />
