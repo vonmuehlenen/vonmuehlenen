@@ -2,7 +2,7 @@
 <p align="center">I’m currently working for Interdiscount as an Junior Application Engineer</p>
 <p align="center"><img src="https://github.com/vonmuehlenen/vonmuehlenen/blob/master/assets/upper.png" height="125"/></p>
 <br />
-<p align="center"><img src="https://github.com/vonmuehlenen/vonmuehlenen/blob/master/assets/hollow-knight.gif" height="125"/></p>
+<p align="center"><img src="https://github.com/vonmuehlenen/vonmuehlenen/blob/master/assets/hollow-knight.gif" height="125" width="100%"/></p>
 <br />
 <p align="center"><img src="https://github.com/vonmuehlenen/vonmuehlenen/blob/master/assets/down.png" height="125"/></p>
 <h4 align="center">You can find me on</h4>
