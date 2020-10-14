@@ -1,10 +1,10 @@
 <h3 align="center">✨ Hi there! I'm Dave ✨</h3>
 <p align="center">I’m currently working for Interdiscount as an Junior Application Engineer</p>
-<hr />
+<p align="center"><img src="https://github.com/vonmuehlenen/vonmuehlenen/blob/master/assets/upper.png" height="125"/></p>
 <br />
 <p align="center"><img src="https://github.com/vonmuehlenen/vonmuehlenen/blob/master/assets/hollow-knight.gif" height="125"/></p>
 <br />
-<hr />
+<p align="center"><img src="https://github.com/vonmuehlenen/vonmuehlenen/blob/master/assets/down.png" height="125"/></p>
 <h4 align="center">You can find me on</h4>
 <p align="center">
   <a href="http://www.github.com/vonmuehlenen"><img src="https://github.com/vonmuehlenen/vonmuehlenen/blob/master/assets/github.png"/></a>
